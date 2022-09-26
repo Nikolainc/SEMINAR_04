@@ -42,7 +42,6 @@
 
     }
 
-
     #region Задача 25
 
     static int DegreeNumber(int number, int degree)
